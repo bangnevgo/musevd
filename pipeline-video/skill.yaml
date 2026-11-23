@@ -1,0 +1,5 @@
+name: "pipeline_video"
+title: "Pipeline Video"
+description: "Pipeline produksi video faceless lengkap milik kita: cerita (twist ditulis duluan, struktur loop) → naskah & tabel timing kata → visual dari tiga mesin (kartun kode, scene sinematik, motion graphics) → rakit di mesin lokal → QC dari file final → tayang & catat angka. Format baku 57–75 detik, 1080×1920, subtitle kinetik satu kata. Pakai untuk semua produksi video seri (Shorts/Reels/TikTok/YouTube) yang dikerjakan bareng Muse."
+category: "Work and knowledge"
+include_in_prompt: true

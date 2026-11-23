@@ -1,0 +1,5 @@
+name: "kartun"
+title: "Kartun"
+description: "Membuat video kartun pendek vertikal (20–40 detik) dari SATU file HTML: model menulis kode animasi Canvas 2D yang deterministik, narasi TTS diselaraskan otomatis lewat tabel timing kata, efek suara sintesis WebAudio, lalu dirender frame demi frame menjadi MP4. Pakai untuk konten cerita kartun faceless (Shorts/Reels/TikTok) yang murah, cepat, dan karakternya konsisten karena kodenya kita pegang sendiri."
+category: "Work and knowledge"
+include_in_prompt: true

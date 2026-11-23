@@ -1,0 +1,5 @@
+name: "prompt_produk"
+title: "Prompt Produk"
+description: "Menulis prompt gambar dan video produk/promosi kelas komersial berdasarkan studi galeri prompt MeiGen (56 prompt dibedah): template pendek ber-placeholder, brief lengkap berlabel dengan blok brand, prompt JSON terstruktur, poster konseptual satu ide, serta storyboard dan prompt video bertimeline. Pakai setiap kali menyusun prompt untuk foto produk, poster penawaran, campaign, storyboard, atau video iklan dengan alat generate kita sendiri."
+category: "Work and knowledge"
+include_in_prompt: true
