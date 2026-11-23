@@ -10,6 +10,7 @@ Kumpulan skill produksi video faceless untuk agen Muse: dari penulisan cerita da
 | `kartun/` | Kartun | Video kartun pendek vertikal 20–40 detik dari SATU file HTML: animasi Canvas 2D deterministik yang ditulis sebagai kode, narasi TTS diselaraskan lewat tabel timing kata, efek suara sintesis WebAudio, dirender frame demi frame menjadi MP4. |
 | `prompt-produk/` | Prompt Produk | Menulis prompt gambar dan video produk/promosi kelas komersial: template pendek ber-placeholder, brief lengkap berlabel, prompt JSON terstruktur, poster konseptual satu ide, storyboard dan prompt video bertimeline. |
 | `stickman-video-director/` | Stickman Video Director | Penyutradaraan video stickman: kontrak prompt, katalog gaya, template storyboard, dan batas eksekusi per mode. |
+| `pro-content-agent/` | Pro Content Agent | Workflow produksi konten profesional 9 tahap untuk gambar, carousel, dan video pendek (Instagram, TikTok, YouTube): riset dan ide, hook, script, storyboard, produksi aset (Google Flow, teknik prompt produk, HyperFrames, pipeline scene dari pamflet), edit, subtitle, dan gerbang QC — dengan standar anti AI-slop, gerbang patokan, dan pemeriksa independen. |
 
 ## Cara pakai
 
@@ -32,4 +33,4 @@ MIT — lihat file `LICENSE`.
 
 ## English summary
 
-A collection of faceless video production skills for the Muse agent: a serial faceless-video pipeline (twist-first stories, loop structure, one-word kinetic subtitles), a code-drawn Canvas 2D cartoon engine rendered frame-by-frame to MP4, commercial product/ad prompt writing (templates, structured JSON prompts, storyboards), and a stickman video director skill. To use a skill, copy its folder into your agent's skills directory and follow its `SKILL.md`. Licensed under MIT.
+A collection of faceless video production skills for the Muse agent: a serial faceless-video pipeline (twist-first stories, loop structure, one-word kinetic subtitles), a code-drawn Canvas 2D cartoon engine rendered frame-by-frame to MP4, commercial product/ad prompt writing (templates, structured JSON prompts, storyboards), a stickman video director skill, and a 9-stage professional content production workflow (research, hooks, scripts, storyboards, Google Flow asset production, editing, subtitles, and a QC gate with an independent reviewer). To use a skill, copy its folder into your agent's skills directory and follow its `SKILL.md`. Licensed under MIT.
